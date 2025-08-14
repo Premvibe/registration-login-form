@@ -47,4 +47,12 @@ body{
   padding-bottom: 15px;
   margin: 0 25px;
 }
-.link:hover, .active
+.link:hover, .active{
+  border-bottom: 2px solid #fff;
+}
+.nav-button .btn{
+  width: 130px;
+  height: 40px;
+  font-weight: 500;
+  background: rgba(39, 39, 39, 0.6);
+}
